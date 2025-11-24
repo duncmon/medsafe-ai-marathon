@@ -14,10 +14,10 @@ The application follows a serverless, event-driven architecture hosted on Google
 
 ```mermaid
 graph LR
-    User[User Frontend] -- HTTPS --> CloudRun[Cloud Run Container];
-    CloudRun -- Medical Context --> VertexAI[Vertex AI (Gemini 2.5)];
-    CloudRun -- Logs/History --> Firestore[Firestore Database];
-    VertexAI -- Analysis --> CloudRun;
+    User["User Frontend"] -- HTTPS --> CloudRun["Cloud Run Container"]
+    CloudRun -- Medical Context --> VertexAI["Vertex AI (Gemini 2.5)"]
+    CloudRun -- Logs/History --> Firestore["Firestore Database"]
+    VertexAI -- Analysis --> CloudRun
 ```
 
 ### Components
