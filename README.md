@@ -5,7 +5,7 @@
 MedSafe AI is a serverless application that empowers patients to check for dangerous interactions between their medications, medical conditions, and lifestyle choices (diet, smoking, alcohol).
 
 ## 🚀 Live Demo
-*   **Deployed App:** [INSERT_YOUR_CLOUD_RUN_URL_HERE]
+*   **Deployed App:** [https://medsafe-ai-894821678026.europe-west1.run.app/](https://medsafe-ai-894821678026.europe-west1.run.app/)
 *   **Demo Video:** [INSERT_YOUR_VIDEO_LINK_HERE]
 
 ## 🏗️ Architecture
