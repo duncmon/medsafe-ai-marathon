@@ -6,7 +6,7 @@ MedSafe AI is a serverless application that empowers patients to check for dange
 
 ## 🚀 Live Demo
 *   **Deployed App:** [https://medsafe-ai-894821678026.europe-west1.run.app/](https://medsafe-ai-894821678026.europe-west1.run.app/)
-*   **Demo Video:** [INSERT_YOUR_VIDEO_LINK_HERE]
+*   **Demo Video:** [https://youtu.be/OZJ7OpjZQGg](https://youtu.be/OZJ7OpjZQGg)
 
 ## 🏗️ Architecture
 
